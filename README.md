@@ -23,7 +23,3 @@ TEZH operates on the principle of piezoelectricity, where **piezoelectric materi
 
 ### **Impact and Future Prospects**  
 TEZH aims to revolutionize road infrastructure by making traffic a **source of clean energy**. With increasing urbanization and vehicle usage, harnessing kinetic energy from traffic presents an **untapped opportunity** for sustainable power generation. By implementing TEZH in strategic locations, cities can **reduce their reliance on conventional energy sources**, lower carbon footprints, and move towards a greener future.  
-
----
-
-Would you like to add any technical specifications or expand on certain aspects? 🚗⚡
